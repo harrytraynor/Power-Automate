@@ -3,7 +3,7 @@ Repository full of random flows I have made in Power Automate.
 
 ## List of Flows
 ### Emails
-  - Mass Email CSV - Takes a CSV text file and emails all the addresses.
+  - Mass Email CSV - Takes a CSV text file and emails all the addresses (5000+ emails in 35 minutes).
   
 ### Teams
   - CreateTeam - Automatically creates a team based on input from a form.
