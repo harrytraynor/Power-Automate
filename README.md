@@ -10,4 +10,4 @@ Repository full of random flows I have made in Power Automate.
   - RequestTeam - Requests team after input from form, and pings approval process to email group.
   - ExportTeams - Exports a list of all current teams into SharePoint.
   - ExportTeamUsers - Exports a list of all current users and their details of a specified team.
-  - CreatePDFMessageInTeam - When a file is placed into a folder, converts to a PDF and then pings a message to a designates approver as to where it will then get posted in a Teams Channel.
+  - CreatePDFMessageInTeam - When a file is placed into a folder, converts to a PDF and then pings a message to an approver as to where it will then get posted in a Teams Channel.
