@@ -1,4 +1,4 @@
-# Create Team - Automatic
+# Request Team - Approval
 
 This will trigger whenever a Form response is submitted. This Form could be embedded into a Teams app and pushed onto the side rail of Teams for easy access. It will then take the output of the Form, start an approval with the "New Teams Approvers" group, and log this to a SharePoint list fot auditing purposes.
 
