@@ -4,7 +4,12 @@ This takes a CSV from the users OneDrive and emails all of the users from it. A 
 
 ## Import Flow
 
-Please refer to the guide [here](https://flow.microsoft.com/en-us/blog/import-export-bap-packages/#:~:text=Importing%20a%20flow%201%20To%20import%20a%20flow%2C,flow%20definition%20from%20the%20package%20More%20items...%20) to import the Flow into Power Automate. This is a basic Flow that uses OneDrive and Outlook connectors.
+Please refer to the guide [here](https://flow.microsoft.com/en-us/blog/import-export-bap-packages/#:~:text=Importing%20a%20flow%201%20To%20import%20a%20flow%2C,flow%20definition%20from%20the%20package%20More%20items...%20) to import the Flow into Power Automate.
+
+### Connectors Required
+
+- OneDrive for Business
+- Office 365 Outlook
 
 ## Prepare Flow
 
