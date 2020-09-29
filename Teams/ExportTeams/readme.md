@@ -1,4 +1,4 @@
-# Create Team - Automatic
+# Export list of Teams
 
 This will run on a schedule, which is recommended at intervals of 15 minutes. It will pull all the information regarding Teams into a SharePoint list for auditing or admin purposes. This can also be a more efficient way of polling your tenant for a list of all available teams without having to use Microsoft Graph.
 
