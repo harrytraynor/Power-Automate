@@ -1,5 +1,5 @@
 # Power-Automate
-Repository full of random flows I have made in Power Automate. 
+Repository full of Flows for Power Automate.
 
 ## List of Flows
 ### Emails
