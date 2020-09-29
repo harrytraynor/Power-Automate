@@ -1,13 +1,4 @@
 # Power-Automate
-Repository full of Flows for Power Automate.
 
-## List of Flows
-### Emails
-  - Mass Email CSV - Takes a CSV text file and emails all the addresses (5000+ emails in 35 minutes).
-  
-### Teams
-  - CreateTeam - Automatically creates a team based on input from a form.
-  - RequestTeam - Requests team after input from form, and pings approval process to email group.
-  - ExportTeams - Exports a list of all current teams into SharePoint.
-  - ExportTeamUsers - Exports a list of all current users and their details of a specified team.
-  - CreatePDFMessageInTeam - When a file is placed into a folder, converts to a PDF and then pings a message to an approver as to where it will then get posted in a Teams Channel.
+Repository full of Flows for Power Automate. Certain Flows may require the use of Azure AD Applications. Please follow [this](setupazureapp.md) guide to set them up.
+
